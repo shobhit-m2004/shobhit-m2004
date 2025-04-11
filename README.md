@@ -1,65 +1,78 @@
-<h1 align="center" style="color: #ff6347;">Hi 👋, I'm <span style="color: #3b9f57;">Shobhit Mishra</span></h1>
-<h3 align="center" style="color: #ffa500;">🚀 Competitive Programmer | 💻 Web Developer</h3>
+<h1>Hi 👋, I'm Shobhit Mishra</h1>
+<h3>🚀 Competitive Programmer | 💻 Web Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shobhit-m2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=shobhit-m2004&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-<p align="center" style="background-color: #e6f7ff; padding: 10px; border-radius: 8px;">
-  - 🎯 I’m a passionate **Competitive Programmer**<br>
-  - 🔢 **Pupil** on Codeforces<br>
-  - 🟫 **3★ on CodeChef**<br>
-  - 🌟 **4★ on GeeksforGeeks**<br>
-  - 🟡 **1732** rating on LeetCode<br>
-  - 🌐 I also enjoy building cool things for the web<br>
-  - 💻 Skilled in **Frontend Development** using HTML, CSS, JavaScript, and React.js<br>
-  - 🔧 I write efficient code in **C++, Java (OOPs)**, and **C**
-</p>
+<div style="background-color: #e0f7fa; padding: 10px; border-radius: 10px;">
+  
+- 🎯 I’m a passionate <strong>Competitive Programmer</strong>  
+- 🔢 <strong>Pupil</strong> on Codeforces  
+- 🟫 <strong>3★ on CodeChef</strong>  
+- 🌟 <strong>4★ on GeeksforGeeks</strong>  
+- 🟡 <strong>1732</strong> rating on LeetCode  
 
----
+- 🌐 I also enjoy building cool things for the web  
+- 💻 Skilled in <strong>Frontend Development</strong> using HTML, CSS, JavaScript, and React.js  
+- 🔧 I write efficient code in <strong>C++, Java (OOPs)</strong>, and <strong>C</strong>  
 
-### 🛠️ Skills
-
-<p align="center" style="background-color: #f2d3d3; padding: 10px; border-radius: 8px;">
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/React.js-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-</p>
+</div>
 
 ---
 
-### 🚀 Competitive Programming Highlights
+## 🛠️ Skills
 
-<p align="center" style="background-color: #d9f7be; padding: 10px; border-radius: 8px;">
-  - 💥 **Codeforces**: Pupil<br>
-  - 💠 **CodeChef**: 3★<br>
-  - 🔷 **GeeksforGeeks**: 4★<br>
-  - 🟡 **LeetCode**: 1732 rating
-</p>
+<div style="background-color: #fff3e0; padding: 10px; border-radius: 10px;">
+
+### 🧑‍💻 Programming Languages
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+
+### 🌐 Frontend Development
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+<img src="https://img.icons8.com/offices/48/000000/react.png" alt="ReactJS" />
+
+### ⚙️ Tools & Platforms
+<img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" />
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Competitive Programming Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhit-m2004&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit-m2004&theme=radical" alt="GitHub Streak" />
-</p>
+<div style="background-color: #f3e5f5; padding: 10px; border-radius: 10px;">
+
+- 💥 <strong>Codeforces</strong>: Pupil  
+- 💠 <strong>CodeChef</strong>: 3★  
+- 🔷 <strong>GeeksforGeeks</strong>: 4★  
+- 🟡 <strong>LeetCode</strong>: 1732 rating  
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Stats
 
-<p align="center" style="background-color: #fff3e6; padding: 10px; border-radius: 8px;">
-  📫 Reach out: <span style="color: #ff1493;">**harhari1008@gmail.com**</span>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobhit-m2004&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shobhit-m2004&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+<div style="background-color: #ffe0b2; padding: 10px; border-radius: 10px;">
+  
+📫 Reach out: **harhari1008@gmail.com**
+
+</div>
 
 ---
 
