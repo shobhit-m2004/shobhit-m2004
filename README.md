@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Competitive Programmer | 💻 Web Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shobhit-m2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -41,16 +41,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit-m2004&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit-m2004&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-- 📫 Reach out: shobhit@example.com *(replace with your actual email)*  
+- 📫 Reach out: **harhari1008@gmail.com**
 
 ---
 
