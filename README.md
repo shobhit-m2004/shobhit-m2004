@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F6bzhpMWY0azQwMGR0aWM4ZGl3MHpteTVrYzBpcHJxMjZqdW1qNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7AtHoQ9XWbpwLRxs0t/giphy.gif" alt="Banner GIF" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Shobhit Mishra</h1>
 <h3 align="center">🚀 Competitive Programmer | 💻 Web Developer</h3>
