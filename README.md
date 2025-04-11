@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Shobhit Mishra</h1>
-<h3 align="center">🚀 Competitive Programmer | 💻 Web Developer</h3>
+<h1 align="center" style="color: #ff6347;">Hi 👋, I'm <span style="color: #3b9f57;">Shobhit Mishra</span></h1>
+<h3 align="center" style="color: #ffa500;">🚀 Competitive Programmer | 💻 Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shobhit-m2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -32,10 +31,10 @@
 
 ### 🚀 Competitive Programming Highlights
 
-- 💥 Codeforces: Pupil  
-- 💠 CodeChef: 3★  
-- 🔷 GeeksforGeeks: 4★  
-- 🟡 LeetCode: 1732 rating  
+- 💥 **Codeforces**: Pupil  
+- 💠 **CodeChef**: 3★  
+- 🔷 **GeeksforGeeks**: 4★  
+- 🟡 **LeetCode**: 1732 rating  
 
 ---
 
@@ -51,7 +50,7 @@
 
 ### 🌐 Connect with Me
 
-- 📫 Reach out: **harhari1008@gmail.com**
+- 📫 Reach out: <span style="color: #ff1493;">**harhari1008@gmail.com**</span>
 
 ---
 
