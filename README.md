@@ -60,9 +60,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobhit-m2004&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shobhit-m2004&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit-m2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit-m2004&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
